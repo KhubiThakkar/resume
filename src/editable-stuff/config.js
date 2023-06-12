@@ -56,7 +56,7 @@ const about = {
   // message:
   //   "My name is Khubi Thakkar. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   message: "My name is Khubi Thakkar. I'm a graduate of 2021 from Faculty of Engineering and Technology, MSU. I am passionate about solving problems and building solutions, my goal is to persue this passion with software engineering. When I am not coding, I like to doodle drawings, journal and catch up with the latest geopolitical events.",
-  resume: "https://drive.google.com/file/d/1gON5pSRa0VjMYImfCLzf0cdfFUU2I_ca/view?usp=sharing",
+  resume: require("../editable-stuff/KhubiThakkar.pdf"),
 };
 
 // PROJECTS SECTION
